@@ -19,31 +19,36 @@ The objective of this course are to
 
 # Lab Lectures
 
-Week 2
+Week 2  
+LAB1
 
 Basic Configuration using Cisco Packet Tracer
 
 
 
-Week 4
+Week 4  
+LAB2
 
 Simulation using Cisco Packet Tracer, Wireshark, NS3
 
 
 
-Week 6
+Week 6  
+LAB3
 
 Socket Programming
 
 
 
-Week 8
+Week 8  
+LAB4
 
 Troubleshooting & NAT
 
 
 
-Week 10
+Week 10  
+LAB5
 
 DHCP, Static Routing & Dynamic Routing
 
